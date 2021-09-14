@@ -2,6 +2,4 @@
 Interaction ( goto scene, on off object )
 
 # Docs
-<!-- 
-author: Ahmad Nadhif Muhajir
- -->
+@author: Ahmad Nadhif Muhajir
